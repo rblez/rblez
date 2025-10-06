@@ -1,5 +1,7 @@
 <div align="center">
     <img src="./public/qr-code.png" alt="Scan and Buy me a Coffe" height="300">
 </div>
+<div align="center">
 <a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFzYzhvbGdwM2VsZHozMmUzeXUxOGo4bXpnZTdibm5pOG9mdXk5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7kZE0z52Sd9zSESzDA/giphy.gif"></a>
+</div>
 <div align="center" style="margin: 30px 0;"><h2></h2> <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;"> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-2%20years-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 2 years" /></a> <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-2%20years-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB 2 years" /></a> <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-1%20year-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI 1 year" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-3%20years-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 3 years" /></a>
