@@ -14,9 +14,9 @@ Con más de 4 años en el mundo del desarrollo, he crecido desde aprender Python
 
 <div align="center">
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1%20año%20y%202%20meses-FFD700?style=for-the-badge&logo=python&logoColor=white" alt="Python 1 year and 2 months" style="background-color: #FFD700;" /></a>
-    <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML%2FCSS-3%20años-00BFFF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML y CSS 3 years" style="background-color: #00BFFF;" /></a>
-    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-2%20años-00A6FF?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB 2 years" style="background-color: #00A6FF;" /></a>
-    <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-1%20año-00BFFF?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI 1 year" style="background-color: #00BFFF;" /></a>
+    <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML%2FCSS-3%20a%C3%B1os-00BFFF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML y CSS 3 a os" style="background-color: linear-gradient(to right, #00BFFF, #FFD700);" /></a>
+    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-2%20años-00A6FF?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB 2 years" style="background-color:rgba(2, 133, 13, 0.97);" /></a>
+    <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-1%20año-00BFFF?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI 1 year" style="background-color:rgba(0, 255, 191, 0.97);" /></a>
 </div>
 
 ### **Trabajos que acepto**
